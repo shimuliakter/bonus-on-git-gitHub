@@ -1,1 +1,15 @@
-staging
+// When creating a repository for the first time
+
+1. git init
+2. git add .
+3. git commit -m "commit message"
+4. git branch -M main
+5. git remote add origin https://github.com/shimuliakter/bonus-on-git-github
+6. git push -u origin main
+
+
+// To Update
+
+2. git add .
+3. git commit -m "initial steps done"
+6. git push 
